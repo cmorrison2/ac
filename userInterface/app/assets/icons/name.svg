@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2_00000096755531102149167420000016437550478506134680_"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 50"
+	 style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000001649358044855119200000014599165791260751543_);}
+	.st1{clip-path:url(#SVGID_00000091007873383786608910000003957029725305595314_);}
+	.st2{fill:#A5A5A5;}
+</style>
+<g id="Create_Account">
+	<g id="Name">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="7.3" width="35.3" height="50"/>
+			</defs>
+			<clipPath id="SVGID_00000044858165133876179950000003953813828954440068_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_00000044858165133876179950000003953813828954440068_);">
+				<g>
+					<defs>
+						<circle id="SVGID_00000181773946871719962860000017852244760240994458_" cx="27" cy="25.3" r="20"/>
+					</defs>
+					<clipPath id="SVGID_00000080914814490241573570000016711974467978268573_">
+						<use xlink:href="#SVGID_00000181773946871719962860000017852244760240994458_"  style="overflow:visible;"/>
+					</clipPath>
+					<g style="clip-path:url(#SVGID_00000080914814490241573570000016711974467978268573_);">
+						<path class="st2" d="M37.5,21.4c-2,3.7-6,6.2-10.5,6.2s-8.5-2.5-10.5-6.2c-3.3,2.5-5.5,6.5-5.5,11v12.4c0,3.2,2.6,5.8,5.8,5.8
+							h20.5c3.2,0,5.8-2.6,5.8-5.8V32.4C43,27.9,40.8,23.9,37.5,21.4L37.5,21.4z"/>
+						<path class="st2" d="M28.8,18.1c2.6,0,5,0.9,7,2.4c0.8-1.4,1.2-3.1,1.2-4.8c0-5.5-4.5-10-10-10s-10,4.5-10,10
+							c0,1.8,0.4,3.4,1.2,4.8c1.9-1.5,4.4-2.4,7-2.4H28.8L28.8,18.1z"/>
+						<path class="st2" d="M27,25.6c3.8,0,7.1-2.1,8.8-5.2c-1.9-1.5-4.4-2.4-7-2.4h-3.6c-2.6,0-5,0.9-7,2.4
+							C19.9,23.5,23.2,25.6,27,25.6L27,25.6z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
